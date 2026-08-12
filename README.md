@@ -29,4 +29,4 @@ Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights an
 
   ## Key Findings: The Double-Edged Sword
 
-  ![Key Findings- Flowchart](KEY FINDINGS- FLOWCHART.png)
+  ![Key Findings- Flowchart](keyfindingsflowchart.png)
