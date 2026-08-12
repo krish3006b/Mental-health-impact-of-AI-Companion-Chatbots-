@@ -25,4 +25,8 @@ Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights an
 
 - REAL-WORLD OBSERVATIONAL DATA (HIGH ECOLOGICAL VALIDITY): Yuan et al. (2026) observed natural user behaviors and review on Reddit for an extended time period. by using Propensity Score Matching (PSM) and Difference in Difference modelling, they actively controlled for self selection bias and proved that long term AI use directly correlates with shifting language patterns and increase in feelings of distress and negative language patterns.
 
-- LARGE SCALE POPULATION DATA (STATISTICAL POWER): Nakagomi et al. (2026) provides macro-level statistical power, due to the large sample size (N = 14,721), to uncover non-linear social patterns that studies done in a lab with a smaller sample size miss entirely.    
+- LARGE SCALE POPULATION DATA (STATISTICAL POWER): Nakagomi et al. (2026) provides macro-level statistical power, due to the large sample size (N = 14,721), to uncover non-linear social patterns that studies done in a lab with a smaller sample size miss entirely.
+
+  ## Key Findings: The Double-Edged Sword
+
+  ![Key Findings- Flowchart](KEY FINDINGS- FLOWCHART.png)
