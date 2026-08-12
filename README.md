@@ -7,12 +7,14 @@ When someone talks to an AI companion, the immediate feeling is often relief. Th
 
 This review maps out the entire arc of the human-AI relationship to answer four core questions:
 
-1. IMMEDIATE IMPACT: How effectively do AI companion reduce acute feelings of loneliness compared to talking to a real human or consuming passive media
+1. IMMEDIATE IMPACT: How effectively do AI companion reduce acute feelings of loneliness compared to talking to a real human or consuming passive media.
 
-2. LONG TERM TRAJECTORIES: What changes occur in the user's mental and emotional state as well as their language patterns over several weeks and months of AI companion use
+2. LONG TERM TRAJECTORIES: What changes occur in the user's mental and emotional state as well as their language patterns over several weeks and months of AI companion use.
 
 3. THE ROLE OF REAL WORLD SOCIAL RELATIONSHIPS: Does the existence of real human friends have an effect on how helpful or harmful the AI companions are to the user's mental health.
 
 4. UNDERLTYTING PSYCHOLOGICAL DRIVERS: What are the psychological mechanism existing in the users, that result in their tendency to form intense emotional attachments to the clearly non human systems. 
 
 
+## Methodology and Methodological Quality and Trade Offs
+To get a complete picture, this review uses CONVERGENT SEGREGTATED SYSNTHESIS DESIGN as well as adhering to the PRISMA guidelines. Quantitative findings such as numbers, statistical trends, and controlled experiments, and qualitative findings such as interview themes user stories and ethnography were each analyzed independently first and were then combined using a triangulation matrix to see where the data agrees, where it conflicts, and why?
