@@ -16,5 +16,13 @@ This review maps out the entire arc of the human-AI relationship to answer four 
 4. UNDERLTYTING PSYCHOLOGICAL DRIVERS: What are the psychological mechanism existing in the users, that result in their tendency to form intense emotional attachments to the clearly non human systems. 
 
 
-## Methodology and Methodological Quality and Trade Offs
+## Methodology, Methodological Quality and Trade Offs
 To get a complete picture, this review uses CONVERGENT SEGREGTATED SYSNTHESIS DESIGN as well as adhering to the PRISMA guidelines. Quantitative findings such as numbers, statistical trends, and controlled experiments, and qualitative findings such as interview themes user stories and ethnography were each analyzed independently first and were then combined using a triangulation matrix to see where the data agrees, where it conflicts, and why?
+
+Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights and important trade off in current AI research:
+
+- CONTROLLED LAB STUDIES (HIGH INTERNAL VALIDITY): In the study De Freitas et al. (2025), the researchers prove direct causality in controlled settings by using Randomized Controlled Trials (RCT), showing that talking to an AI companion causes a drop in short-term feelings of loneliness. However lab setting cannot capture the effects after 6 months of daily use.
+
+- REAL-WORLD OBSERVATIONAL DATA (HIGH ECOLOGICAL VALIDITY): Yuan et al. (2026) observed natural user behaviors and review on Reddit for an extended time period. by using Propensity Score Matching (PSM) and Difference in Difference modelling, they actively controlled for self selection bias and proved that long term AI use directly correlates with shifting language patterns and increase in feelings of distress and negative language patterns.
+
+- LARGE SCALE POPULATION DATA (STATISTICAL POWER): Nakagomi et al. (2026) provides macro-level statistical power, due to the large sample size (N = 14,721), to uncover non-linear social patterns that studies done in a lab with a smaller sample size miss entirely.    
