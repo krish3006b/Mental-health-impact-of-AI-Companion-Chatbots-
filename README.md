@@ -27,6 +27,10 @@ Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights an
 
 - **Large Scale Population Data (Statistical Power)**: Nakagomi et al. (2026) provides macro-level statistical power, due to the large sample size (N = 14,721), to uncover non-linear social patterns that studies done in a lab with a smaller sample size miss entirely.
 
-  ## Key Findings: The Double-Edged Sword
+ # Key Findings: The Double-Edged Sword
 
   ![Key Findings- Flowchart](keyfindingsflowchart.png)
+
+ ## The Short Term "High": Why AI Companions Feel Amazing at First
+when someone is acutely lonely, opening an AI companion app provides immediate relief that rivals speaking with a real person. 
+
