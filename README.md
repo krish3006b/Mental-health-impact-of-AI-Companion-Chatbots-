@@ -34,3 +34,9 @@ Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights an
  ## The Short Term "High": Why AI Companions Feel Amazing at First
 when someone is acutely lonely, opening an AI companion app provides immediate relief that rivals speaking with a real person. 
 
+- **Parity with Human Contact**: In randomized trials, having a conversation with an AI companion reduced short term loneliness far better than passive activities like watching video content or scrolling social media, and performed almost identically to having real conversation with a supportive human.
+
+- **The "Feeling Heard" Mechanism**: The secret behind the feeling of immediate relief isn't just the act of venting or being distracted, but is actually a **perceived responsiveness**,  which is the psychological illusion that the entity on the other end of the conversation truly understands, values and hears you.
+
+- **Forecasting Error**: Most users expect the AI companion to sound cold, uninterested, and robotic, but once they start engaging in a conversation, they are surprised by how real and comforting it feels, which results in the short term alleviation of feelings on loneliness. 
+
