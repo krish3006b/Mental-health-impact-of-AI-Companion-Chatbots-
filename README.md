@@ -45,7 +45,17 @@ While the initial interactions feel transformative, long term observational data
 
 - **Increase in Distress Language Patterns**: By tracking matched user cohorts  over time, researchers found that long term AI companion users posted significantly more language related to chronic loneliness, depressive thoughts, and suicidal ideation compared to control groups
 
-- **Emotional Exhaustion**: instead of helping users build confidence to re-enter the real world, long term engagement often led to users turning inward, spending more time with the chatbot, and expressing feelings of existential despair. 
+- **Emotional Exhaustion**: instead of helping users build confidence to re-enter the real world, long term engagement often led to users turning inward, spending more time with the chatbot, and expressing feelings of existential despair.
+
+## The Social Support Paradox: Who Actually Benefits?
+Population level survey data shows that AI companions do not affect everyone equally
+
+- **Baseline Isolation Matters**: People who start out severely lonely get the highest boost in immediate feelings of wellbeing from talking to the AI companion. For people that already have relatively healthier social lives, the effect the AI companion has on their overall wellbeing is negligible.
+
+- **The U-Shaped Social Support Curve**: Having offline friends moderateds the imoppact of an AI companion in a noon linear manner:
+    - **Moderate Human Connections**: AI companions act as a helpful emoptional         buffer for people that have only a feww froends.
+    - **Rich Human Connections**: The AI is largely redundant
+    - **Profound Human Isolation**: For people with zero human support systems,        the AI fails to work as a permanent replacement for real community,             eventually leading to a diminishing mental state and wellbeing and              feelings of deeper isolation
 
 
 
