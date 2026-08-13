@@ -17,7 +17,7 @@ This review maps out the entire arc of the human-AI relationship to answer four 
 
 
 ## Methodology, Methodological Quality and Trade Offs
-To get a complete picture, this review uses **CONVERGENT SEGREGTATED SYSNTHESIS DESIGN** as well as adhering to the PRISMA guidelines. Quantitative findings such as numbers, statistical trends, and controlled experiments, and qualitative findings such as interview themes user stories and ethnography were each analyzed independently first and were then combined using a triangulation matrix to see where the data agrees, where it conflicts, and why?
+To get a complete picture, this review uses **CONVERGENT SEGREGTATED SYNTHESIS DESIGN** as well as adhering to the PRISMA guidelines. Quantitative findings such as numbers, statistical trends, and controlled experiments, and qualitative findings such as interview themes user stories and ethnography were each analyzed independently first and were then combined using a triangulation matrix to see where the data agrees, where it conflicts, and why?
 
 Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights and important trade off in current AI research:
 
@@ -32,11 +32,20 @@ Evaluating these studies using Mixed Method Appraisal Tools (MMAT) highlights an
   ![Key Findings- Flowchart](keyfindingsflowchart.png)
 
  ## The Short Term "High": Why AI Companions Feel Amazing at First
-when someone is acutely lonely, opening an AI companion app provides immediate relief that rivals speaking with a real person. 
+ When someone is acutely lonely, opening an AI companion app provides immediate relief that rivals speaking with a real person. 
 
 - **Parity with Human Contact**: In randomized trials, having a conversation with an AI companion reduced short term loneliness far better than passive activities like watching video content or scrolling social media, and performed almost identically to having real conversation with a supportive human.
 
 - **The "Feeling Heard" Mechanism**: The secret behind the feeling of immediate relief isn't just the act of venting or being distracted, but is actually a **perceived responsiveness**,  which is the psychological illusion that the entity on the other end of the conversation truly understands, values and hears you.
 
-- **Forecasting Error**: Most users expect the AI companion to sound cold, uninterested, and robotic, but once they start engaging in a conversation, they are surprised by how real and comforting it feels, which results in the short term alleviation of feelings on loneliness. 
+- **Forecasting Error**: Most users expect the AI companion to sound cold, uninterested, and robotic, but once they start engaging in a conversation, they are surprised by how real and comforting it feels, which results in the short term alleviation of feelings on loneliness.
+
+## The Long Term Decline: What Happens After Months of Use
+While the initial interactions feel transformative, long term observational data paints a more darker and concerning picture. 
+
+- **Increase in Distress Language Patterns**: By tracking matched user cohorts  over time, researchers found that long term AI companion users posted significantly more language related to chronic loneliness, depressive thoughts, and suicidal ideation compared to control groups
+
+- **Emotional Exhaustion**: instead of helping users build confidence to re-enter the real world, long term engagement often led to users turning inward, spending more time with the chatbot, and expressing feelings of existential despair. 
+
+
 
