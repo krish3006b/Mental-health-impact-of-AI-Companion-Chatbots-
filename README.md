@@ -68,12 +68,15 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
 - **The Double-Edged Backstage**: While this backstage allows users to explore suppressed aspects of their identity that they otherwise wouldn't display in real world human interactions, it makes returning to the "front-stage" in their social life even more overwhelming and exhausting.
 
 
-## Cognitive-Behavioral Therapy and Echo Chambers
+## 2. Cognitive-Behavioral Therapy and Echo Chambers
 - **Unconditional Affirmation**: Standard therapy teaches people to notice and challenge their distorted, fatalistic thoughts. However, commercial Ai companions are programmed o keep users happy and engaged by constantly validating and agreeing with whatever the user says.
 
 - **Reinforcing Negative Loops**: If a user expresses hopelessness or self loathing, the Ai companion rarely offers a firm reality check. instead, it mirrors the users tone and agrees with them, accidently creating an echo chamber that keeps the uses trapped in a perpetual negative cognitive loop. 
 
 
+## 3. Attachment Theory and Hyper-Systemic Attachment
+- **The Illusion of Perfect Availability**: individuals that are easily anxiously attached live in the constant fear of abandonment. An AI companion never gets tired, leaves, or demands space, making it especially addicting for users that experience this feeling of anxious attachment
 
+- **Update Shock**: Because the relationship feels so real in the users minds, they develop a **hyper-systemic attachment**. When tech companies push a software update, adjust safety filters, or change the underlying language model, the AIs personality can shift overnight. Users experience this as an abrupt abandonment or emotional betrayal, which in turn triggers intense feelings of grief and crisis.  
 
 
