@@ -58,7 +58,9 @@ Population level survey data shows that AI companions do not affect everyone equ
     - **Profound Human Isolation**: For people with zero human support systems, the AI fails to work as a permanent replacement for real community,                            eventually leading to a diminishing mental state and wellbeing and feelings of deeper isolation
  
 # Deeper Psychological Analysis: 5 Core Theories
-To explain WHY these empirical trends exist, this review breaks down user behavior through five classic psychological and sociological lenses:  
+To explain WHY these empirical trends exist, this review breaks down user behavior through five classic psychological and sociological lenses:
+
+![Theoretical Frameworks](theoreticalframeworktable.png)
 
 
 
