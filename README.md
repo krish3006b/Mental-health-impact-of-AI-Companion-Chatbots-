@@ -53,12 +53,12 @@ Population level survey data shows that AI companions do not affect everyone equ
 - **Baseline Isolation Matters**: People who start out severely lonely get the highest boost in immediate feelings of wellbeing from talking to the AI companion. For people that already have relatively healthier social lives, the effect the AI companion has on their overall wellbeing is negligible.
 
 - **The U-Shaped Social Support Curve**: Having offline friends moderateds the imoppact of an AI companion in a noon linear manner:
-    - **Moderate Human Connections**: AI companions act as a helpful emoptional         buffer for people that have only a feww froends.
+    - **Moderate Human Connections**: AI companions act as a helpful emoptional buffer for people that have only a few froends.
     - **Rich Human Connections**: The AI is largely redundant
-    - **Profound Human Isolation**: For people with zero human support systems,        the AI fails to work as a permanent replacement for real community,             eventually leading to a diminishing mental state and wellbeing and              feelings of deeper isolation
+    - **Profound Human Isolation**: For people with zero human support systems, the AI fails to work as a permanent replacement for real community,                            eventually leading to a diminishing mental state and wellbeing and feelings of deeper isolation
  
 # Deeper Psychological Analysis: 5 Core Theories
-To explain WHY these empirical trends exist, this review breaks down user behavior through five classic psychological and sociological lenses  
+To explain WHY these empirical trends exist, this review breaks down user behavior through five classic psychological and sociological lenses:  
 
 
 
