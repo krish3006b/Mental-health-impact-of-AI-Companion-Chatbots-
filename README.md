@@ -63,6 +63,9 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
 ![Theoretical Frameworks](theoreticalframeworktable.png)
 
 ## 1. Erving Goffman's Dramaturgical Analysis
+- **Front Stage vs. Backstage**: In real life, human interactions are stressful because we constantly manage  how we seem to appear to people that we interact with ("front-stage") to avoid being judged, awkward or rejected. AI companions create an unconstrained "backstage" space where users can drop the shields they create completely.
+
+- **The Double-Edged Backstage**: While this backstage allows users to explore suppressed aspects of their identity that they otherwise wouldn't display in real world human interactions, it makes returning to the "front-stage" in their social life even more overwhelming and exhausting.
 
 
 
