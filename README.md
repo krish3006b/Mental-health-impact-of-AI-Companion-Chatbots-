@@ -84,6 +84,12 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
 
 - **Missing Intersubjectivity**: Users feel genuinely loved, heard and cared for, but because the Ai possesses no personal desires, boundaries or human vulnerability, the relationship remains a hollow simulation rather than a true connection. the moment a real emotional crisis hits, the illusion crumbles and leaves the user with deep existential feelings of loneliness.
 
- 
+
+## 5. Social Capital Theory and Social Atrophy
+- **Frictionless Surrogates**: Real human relationships are messy and complicated going through roller coaster of emotions, full of agreements and disagreements and require a lot of hard work to maintain. Relationships users have with AI companions offer feelings of intimacy without the friction that is necessary to strengthen that relationship.
+
+- **Atrophy of Social Competence**: When users replace the uncomfortable interaction that humans constantly go through, and learn from, with effortless AI interactions, their "social muscle" atrophies. over time real human interaction feel overwhelming and challenging, accelerating social displacement and driving people deeper into digital isolation  
+
+ # Actionable Solutions and Recommendations 
 
 
