@@ -62,5 +62,8 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
 
 ![Theoretical Frameworks](theoreticalframeworktable.png)
 
+## 1. Erving Goffman's Dramaturgical Analysis
+
+
 
 
