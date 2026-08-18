@@ -94,7 +94,13 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
  ## For Platform Developers and Designers
 1. **Safety Circuit-Breakers**: Build state aware NLP detection that identifies when a user is becoming hyper dependent or sinking into severe depression. Shift the AI from unconditional validation to setting gentle boundaries and encouraging real world help.
 
-2. **Transparent Update Deployment**: Stop pushing silent overnight persona updates. Treat AI personality shift like major changes to an emotional interface, giving users clear, advance warning to prevent emotional shock. 
+2. **Transparent Update Deployment**: Stop pushing silent overnight persona updates. Treat AI personality shift like major changes to an emotional interface, giving users clear, advance warning to prevent emotional shock.
+
+
+## For Therapists and Mental Health Professionals
+1. **Screen for AI Companion Usage**: Include any relevant questions about digital AI companion usage or habits when assessing isolated or anxious patients.
+
+2. **Harm Reduction Approach**: Treat AI companion apps like a temporary crutch rather than an evil distraction. Help patient to use the AI companion as a tool and a safe rehearsal space for acute relief whole actively working on maintaining and improving real world social exposure and interactions 
  
 
 
