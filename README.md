@@ -92,7 +92,9 @@ To explain WHY these empirical trends exist, this review breaks down user behavi
 
  # Actionable Solutions and Recommendations
  ## For Platform Developers and Designers
-1. **Safety Circuit-Breakers**: Build state aware NLP detection that identifies when a user is becoming hyper dependent or sinking into sever depression. shift the AI from unconditional validation to setting gentle boundaries and encouraging real world help
+1. **Safety Circuit-Breakers**: Build state aware NLP detection that identifies when a user is becoming hyper dependent or sinking into severe depression. Shift the AI from unconditional validation to setting gentle boundaries and encouraging real world help.
+
+2. **Transparent Update Deployment**: Stop pushing silent overnight persona updates. Treat AI personality shift like major changes to an emotional interface, giving users clear, advance warning to prevent emotional shock. 
  
 
 
